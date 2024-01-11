@@ -1,9 +1,7 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import GoodCard from "@/components/GoodCard/index.vue";
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+    <GoodCard></GoodCard>
 </template>
